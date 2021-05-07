@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Under Construction'
 
 content:
   # Page type to display. E.g. project.
@@ -27,8 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Computer Vision
+    tag: Computer Vision
   - name: Other
     tag: Demo
 
