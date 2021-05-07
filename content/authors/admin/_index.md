@@ -6,7 +6,7 @@ title: Ishaan Singh Rawal
 superuser: true
 
 # Role/position/tagline
-role: B.Engg. Computer Science and M.Sc. Biological Science
+# role: B.Engg. Computer Science and M.Sc. Biological Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
