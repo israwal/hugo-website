@@ -10,8 +10,8 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Birla Institute of Technology and Science, Pilani (India)
-  url: https://www.bits-pilani.ac.in/
+- name: ""
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Vision and Machine Learning
@@ -36,25 +36,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:ishaanrawal@gmail.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/IshaanSRawal
+- icon: cv
+  icon_pack: ai
+  link: uploads/IshaanRawal_Resume.pdf
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/israwal
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ishaan-s-rawal
+- icon: github
+  icon_pack: fab
+  link: https://github.com/israwal
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,17 +60,21 @@ email: ""
 highlight_name: true
 ---
 <!-- <DIV align="justify"> -->
-  <p>
-  I am a senior undergraduate student at <a href="https://www.bits-pilani.ac.in/">Birla Institute of Technology and Science (BITS), Pilani, India</a>, pursuing an integrated dual degree- B.Engg. in Computer Science and M.Sc. in Biological Sciences.
-  </p>
-  <p>
-    Currently I am being advised by <a href="http://userpage.fu-berlin.de/rmcichy/">Prof. Radoslaw Martin Cichy</a> and <a href="http://www.cvai.cs.uni-frankfurt.de/">Prof. Gemma Roig</a> for my master's thesis. I am also working as a student researcher at <a href="https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory">Advanced Data Analytics and Parallel Technologies (ADAPT) Lab</a>, working with <a href="https://universe.bits-pilani.ac.in/pilani/poonam/profile">Prof. Poonam Goyal</a>.
-  </p>
-  <p>
-    My major area of focus is Computer Vision and Deep Learning, in general and have minor interest in computational biology. I have experience in bioinformatics, video analytics, inverse reconstruction, medical segmentation and interpretability of deep neural networks. I am enthused to explore 3-D vision, generative modelling and multi-modal problems in near future.
-  </p>
-  <p>
-    Feel free to reach me out for collaborations and discussion!
-  </p>
+<!-- <div class="container vertical-horizontal">
+<div> -->
+<br>
+<br>
+<p>
+ I am a senior undergraduate student at Birla Institute of Technology and Science (BITS), Pilani, India, pursuing a dual degree- B.Engg. Computer Science and M.Sc. Biology.</p>
+ <p>
+Currently I am being advised by <a href="http://userpage.fu-berlin.de/rmcichy/" target="_blank" rel="noopener">Prof. Radoslaw Martin Cichy</a> and <a href="http://www.cvai.cs.uni-frankfurt.de/" target="_blank" rel="noopener">Prof. Gemma Roig</a> for my master's thesis. I am also working as a student researcher at Advanced Data Analytics and Parallel Technologies (<a href="https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory" target="_blank" rel="noopener">ADAPT</a>) Lab.</p>
+<p>
+My major area of focus is Computer Vision and Deep Learning, in general and have minor interest in Computational Biology. 
+</p> 
+<p>
+Feel free to reach me out for collaborations and discussion!
+</p>
+<!-- </div>
+</div> -->
 <!-- </DIV> -->
 

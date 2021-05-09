@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Ishaan Rawal</title>
+    <link>https://israwal.github.io/tag/machine-learning/</link>
+      <atom:link href="https://israwal.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://israwal.github.io/media/icon_hue5d671e0b768c50a6d08d5b4f04cff0f_40307_512x512_fill_lanczos_center_2.png</url>
+      <title>Machine Learning</title>
+      <link>https://israwal.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Deep Video Reconstruction From Brain Activity</title>
+      <link>https://israwal.github.io/project/brain_video/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/brain_video/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Dec 2020)&lt;/p&gt;
+&lt;p&gt;I am working with &lt;a href=http://userpage.fu-berlin.de/rmcichy/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Radoslaw Martin Cichy&lt;/a&gt; (&lt;a href=https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Neural Dynamics of Visual Cognition Lab&lt;/a&gt;, Freie Universität Berlin) and &lt;a href=http://www.cvai.cs.uni-frankfurt.de/team.html
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=http://www.cvai.cs.uni-frankfurt.de/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Computer Vision and Artificial Intelligence Lab&lt;/a&gt;, Goethe University) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using deep neural network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network. We are also exploring end-to-end models which can produce both encodings and decodings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis Of Long-Distance Linked Selection In Indian Variants Of SARS-CoV-2</title>
+      <link>https://israwal.github.io/project/covid_genome/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/covid_genome/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (June 2020 - Sept 2020)&lt;/p&gt;
+&lt;p&gt;This project was done virtually during the fist wave of the COVID-19 pandemic, in collaboration with &lt;a href=http://arunsethuraman.weebly.com/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Arun Sethuraman&lt;/a&gt;, California State University, San Marcos. Long range mutations are not well studied in evolutionary biology. We hypothesized that associations in long-range mutations gives more reasons to inspect causality in SARS-CoV-2. This would help to analyze the trajectory of mutations of the virus. We analyzed 1,200 full genome sequences and identified 14 significant non-synonymous mutations. The association rules were mined using apriori algorithm and their individual stability was analyzed using homology modelling. This was the first ever data-driven analysis of viral long-range mutations. We found out two clusters of significant non-synonymous mutations and analyzed the intra and inter-cluster rules (figure above). We presented our work at the virtual poster presentation at COVID-19 Dynamics and Evolution Virtual Conference, organised by UC San Diego School of Medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intervertebral Disc Segmentation Using U-Net</title>
+      <link>https://israwal.github.io/project/disc_segment/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/disc_segment/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (May 2020 - Jul 2020)&lt;/p&gt;
+&lt;p&gt;This project was completed as part of my summer internship at &lt;a href=https://orthobiomech.ethz.ch/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of &lt;a href=https://biomech.ethz.ch/the-institute/people/person-detail.html?persid&amp;#61;172198
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Dr. Jonas Widmer&lt;/a&gt;. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to indentify spinal defects. Particularly, I was involved in segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1% and the overall segmentation pipeline scored 91.8%, which is competent with the state-of-the-art apporoaches.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

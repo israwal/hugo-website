@@ -3,5 +3,6 @@
 
 # Hugo
 /resources/
+/publicd/
 jsconfig.json
 node_modules/

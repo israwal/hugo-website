@@ -7,7 +7,7 @@
     <description>Ishaan Rawal</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://israwal.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://israwal.github.io/media/icon_hue5d671e0b768c50a6d08d5b4f04cff0f_40307_512x512_fill_lanczos_center_2.png</url>
       <title>Ishaan Rawal</title>
       <link>https://israwal.github.io/</link>
     </image>
@@ -24,11 +24,39 @@
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=https://wowchemy.com/docs/managing-content/#create-slides
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Slides&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=https://wowchemy.com/docs/writing-markdown-latex/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+&lt;p&gt;Further event details, including &lt;a href=https://wowchemy.com/docs/writing-markdown-latex/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Novel de-novo Short-Read Genome Assembler</title>
+      <link>https://israwal.github.io/project/genome_assembly/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/genome_assembly/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Jan 2021)&lt;/p&gt;
+&lt;p&gt;I am working as a student researcher at &lt;a href=https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Advanced Data Analytics and Parallel Technologies (ADAPT) Lab, BITS Pilani&lt;/a&gt; with &lt;a href=https://universe.bits-pilani.ac.in/pilani/poonam/profile
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Poonam Goyal&lt;/a&gt;. We are working on biological &lt;a href=https://en.wikipedia.org/wiki/Sequence_assembly
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;sequence assemby&lt;/a&gt; which is an NP-hard string reconstruction problem. We are building a novel de-novo short-read genome assembler to reconstruct the DNA contigs efficiently. The proposed assembler is being built with distributed and hierarchical data structures and using intermediaries- unitigs to avoid the bottlenecks in the pipeline. We harness overlap and paired-end information along with some novel features to extend the unitigs.&lt;/p&gt;
 </description>
     </item>
     
@@ -65,31 +93,103 @@
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/guide/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👉 &lt;a href=https://wowchemy.com/templates/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Create a new site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=https://wowchemy.com/docs/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Personalize your site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=https://discord.gg/z8wNYzb
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Chat with the Wowchemy community&lt;/a&gt; or &lt;a href=https://discourse.gohugo.io
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Hugo community&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=https://twitter.com/wowchemy
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;@wowchemy&lt;/a&gt; &lt;a href=https://twitter.com/GeorgeCushen
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=https://twitter.com/search?q&amp;#61;%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src&amp;#61;typed_query
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=https://github.com/wowchemy/wowchemy-hugo-modules/issues
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Request a feature or report a bug for Wowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=https://wowchemy.com/docs/guide/update/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Update Guide&lt;/a&gt; and &lt;a href=https://wowchemy.com/updates/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
 &lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
-&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=https://wowchemy.com/plans/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;amp;amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=https://wowchemy.com/plans/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=https://github.com/wowchemy/hugo-academic-cli
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;p&gt;&lt;a href=https://academic-demo.netlify.com/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=https://wowchemy.com/user-stories/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;view the showcase&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=https://wowchemy.com/docs/page-builder/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;widgets&lt;/a&gt; and &lt;a href=https://wowchemy.com/docs/writing-markdown-latex/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;elements&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=https://wowchemy.com/docs/writing-markdown-latex/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Markdown&lt;/a&gt;, &lt;a href=https://wowchemy.com/docs/import/jupyter/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Jupyter&lt;/a&gt;, or &lt;a href=https://wowchemy.com/docs/install-locally/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;RStudio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=https://wowchemy.com/docs/customization/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;color and font themes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=https://en.wikibooks.org/wiki/LaTeX/Mathematics
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=https://analytics.google.com
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Google Analytics&lt;/a&gt;, &lt;a href=https://disqus.com
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
@@ -101,11 +201,106 @@
 &lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=https://academic-demo.netlify.com/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=https://wowchemy.com/docs/customization
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Choose a stunning theme and font&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=https://georgecushen.com
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Video Reconstruction From Brain Activity</title>
+      <link>https://israwal.github.io/project/brain_video/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/brain_video/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Dec 2020)&lt;/p&gt;
+&lt;p&gt;I am working with &lt;a href=http://userpage.fu-berlin.de/rmcichy/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Radoslaw Martin Cichy&lt;/a&gt; (&lt;a href=https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Neural Dynamics of Visual Cognition Lab&lt;/a&gt;, Freie Universität Berlin) and &lt;a href=http://www.cvai.cs.uni-frankfurt.de/team.html
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=http://www.cvai.cs.uni-frankfurt.de/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Computer Vision and Artificial Intelligence Lab&lt;/a&gt;, Goethe University) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using deep neural network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network. We are also exploring end-to-end models which can produce both encodings and decodings.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Modelling Of Gene Regulatory Networks Using Formal Methods</title>
+      <link>https://israwal.github.io/project/pbn/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/pbn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Aug 2020 - Dec 2020)&lt;/p&gt;
+&lt;p&gt;In collaboration with &lt;a href=https://www.bits-pilani.ac.in/pilani/rajeshk/profile
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Rajesh Kumar&lt;/a&gt;, Formal Methods Lab, BITS Pilani, we theoretically showed the close ties between the two popular Boolean models of stochasticity- Stochasticity in Nodes (&lt;a href=https://pubmed.ncbi.nlm.nih.gov/17543998/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;SIN&lt;/a&gt;) and Stochasticity in Function (&lt;a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2687968/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;SIF&lt;/a&gt;). This was done by proving both the models as a special instance of the generic framework- context sensitive probabilistic Boolean networks which are modelled using discrete time markov chains. We also attempted to understand the stable attractor dynamics of probabiltic networks and their physical implications as different phenotypes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimizing Structure Of Novel Heavy Metal Complexes For Cancer Detection</title>
+      <link>https://israwal.github.io/project/heavy_metal/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/heavy_metal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Aug 2020 - Dec 2020)&lt;/p&gt;
+&lt;p&gt;The Cancer Diagnostic Tool Project is a collaboration between the Department of Biological Sciences and Department fo Chemsitry, BITS Pilani. As a part of the initiative, in-house developed backbones of novel heavy metal complex were being explored to develop affordable (less than 1 USD) and portable cancer diagnostic tools. These heavy metal complexes rely on Aggregation-Induced Emission (AIE) mechanism for detection. My job, under the guidance of &lt;a href=https://www.bits-pilani.ac.in/pilani/shiba/profile
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Shibasish Chowdhury&lt;/a&gt;, was to find the optimal structure of the complexes against EphB4 (a cancer biomarker) using molecular docking. The results from my in-silico study are being translated to the wet-lab work to test and further optimise the structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis Of Long-Distance Linked Selection In Indian Variants Of SARS-CoV-2</title>
+      <link>https://israwal.github.io/project/covid_genome/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/covid_genome/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (June 2020 - Sept 2020)&lt;/p&gt;
+&lt;p&gt;This project was done virtually during the fist wave of the COVID-19 pandemic, in collaboration with &lt;a href=http://arunsethuraman.weebly.com/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Arun Sethuraman&lt;/a&gt;, California State University, San Marcos. Long range mutations are not well studied in evolutionary biology. We hypothesized that associations in long-range mutations gives more reasons to inspect causality in SARS-CoV-2. This would help to analyze the trajectory of mutations of the virus. We analyzed 1,200 full genome sequences and identified 14 significant non-synonymous mutations. The association rules were mined using apriori algorithm and their individual stability was analyzed using homology modelling. This was the first ever data-driven analysis of viral long-range mutations. We found out two clusters of significant non-synonymous mutations and analyzed the intra and inter-cluster rules (figure above). We presented our work at the virtual poster presentation at COVID-19 Dynamics and Evolution Virtual Conference, organised by UC San Diego School of Medicine.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intervertebral Disc Segmentation Using U-Net</title>
+      <link>https://israwal.github.io/project/disc_segment/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/disc_segment/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (May 2020 - Jul 2020)&lt;/p&gt;
+&lt;p&gt;This project was completed as part of my summer internship at &lt;a href=https://orthobiomech.ethz.ch/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of &lt;a href=https://biomech.ethz.ch/the-institute/people/person-detail.html?persid&amp;#61;172198
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Dr. Jonas Widmer&lt;/a&gt;. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to indentify spinal defects. Particularly, I was involved in segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1% and the overall segmentation pipeline scored 91.8%, which is competent with the state-of-the-art apporoaches.&lt;/p&gt;
 </description>
     </item>
     
@@ -115,7 +310,13 @@
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=https://wowchemy.com/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Wowchemy&lt;/a&gt; | &lt;a href=https://owchemy.com/docs/managing-content/#create-slides
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
@@ -135,7 +336,10 @@
 &lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=https://github.com/hakimel/reveal.js#pdf-export
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
@@ -233,21 +437,14 @@ Three
 &lt;/code&gt;&lt;/pre&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
+&lt;p&gt;&lt;a href=https://github.com/wowchemy/wowchemy-hugo-modules/discussions
     
-    <item>
-      <title>Example Project</title>
-      <link>https://israwal.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://israwal.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=https://wowchemy.com/docs/managing-content/#create-slides
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -266,7 +463,10 @@ Three
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=https://wowchemy.com/docs/writing-markdown-latex/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

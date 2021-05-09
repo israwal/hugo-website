@@ -5,3 +5,26 @@
 .post-content p {
     text-align: justify;
 }*/
+
+.dark .btn-toolbar {
+    opacity: 0.7;
+}
+
+/*#content {
+    max-width: 1000px;
+    margin: auto;
+    left: 1%;
+    right: 1%;
+    position: absolute;
+}*/
+.vertical-horizontal div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: auto;
+	text-align: left;
+/*	width: 98.5%;*/
+	height: 90%;
+}
