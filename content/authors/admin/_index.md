@@ -65,14 +65,15 @@ highlight_name: true
 <br>
 <br>
 <p>
- I am a senior undergraduate student at Birla Institute of Technology and Science (BITS), Pilani, India, pursuing a dual degree- B.Engg. Computer Science and M.Sc. Biology.</p>
+ I am a senior undergraduate student at Birla Institute of Technology and Science (BITS), Pilani, India, pursuing a dual degree &mdash; B.Engg. Computer Science and M.Sc. Biology.</p>
  <p>
-Currently I am being advised by <a href="http://userpage.fu-berlin.de/rmcichy/" target="_blank" rel="noopener">Prof. Radoslaw Martin Cichy</a> and <a href="http://www.cvai.cs.uni-frankfurt.de/" target="_blank" rel="noopener">Prof. Gemma Roig</a> for my master's thesis. I am also working as a student researcher at Advanced Data Analytics and Parallel Technologies (<a href="https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory" target="_blank" rel="noopener">ADAPT</a>) Lab.</p>
-<p>
-My major area of focus is Computer Vision and Deep Learning, in general and have minor interest in Computational Biology. 
+Currently, I am being advised by <a href="http://userpage.fu-berlin.de/rmcichy/" target="_blank" rel="noopener">Prof. Radoslaw Martin Cichy</a> and <a href="http://www.cvai.cs.uni-frankfurt.de/" target="_blank" rel="noopener">Prof. Gemma Roig</a> for my master's thesis.
+
+My primary focus is Computer Vision and Deep Learning, in general, with a tangential interest  in Computational Biology. I want to work towards interpretable representations in generative models for
+computer vision and human-inspired AI.
 </p> 
 <p>
-Feel free to reach me out for collaborations and discussion!
+Feel free to reach out for collaborations and discussion!
 </p>
 <!-- </div>
 </div> -->

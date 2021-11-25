@@ -5,7 +5,7 @@
     <link>https://israwal.github.io/tag/other/</link>
       <atom:link href="https://israwal.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://israwal.github.io/media/icon_hue5d671e0b768c50a6d08d5b4f04cff0f_40307_512x512_fill_lanczos_center_2.png</url>
       <title>Other</title>
@@ -13,53 +13,53 @@
     </image>
     
     <item>
-      <title>Novel de-novo Short-Read Genome Assembler</title>
+      <title>Graph Compaction Algorithm For Novel de-novo Genome Assembler</title>
       <link>https://israwal.github.io/project/genome_assembly/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/genome_assembly/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Jan 2021)&lt;/p&gt;
-&lt;p&gt;I am working as a student researcher at &lt;a href=https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Jan 2021 - May 2021)&lt;/p&gt;
+&lt;p&gt;I am a student researcher at &lt;a href=https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Advanced Data Analytics and Parallel Technologies (ADAPT) Lab, BITS Pilani&lt;/a&gt; with &lt;a href=https://universe.bits-pilani.ac.in/pilani/poonam/profile
+&gt;Advanced Data Analytics and Parallel Technologies (ADAPT) Lab, BITS Pilani&lt;/a&gt;, with &lt;a href=https://universe.bits-pilani.ac.in/pilani/poonam/profile
     
     target=_blank rel=&#34;noopener noreferrer&#34;
 &gt;Prof. Poonam Goyal&lt;/a&gt;. We are working on biological &lt;a href=https://en.wikipedia.org/wiki/Sequence_assembly
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;sequence assemby&lt;/a&gt; which is an NP-hard string reconstruction problem. We are building a novel de-novo short-read genome assembler to reconstruct the DNA contigs efficiently. The proposed assembler is being built with distributed and hierarchical data structures and using intermediaries- unitigs to avoid the bottlenecks in the pipeline. We harness overlap and paired-end information along with some novel features to extend the unitigs.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Computational Modelling Of Gene Regulatory Networks Using Formal Methods</title>
-      <link>https://israwal.github.io/project/pbn/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://israwal.github.io/project/pbn/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Aug 2020 - Dec 2020)&lt;/p&gt;
-&lt;p&gt;In collaboration with &lt;a href=https://www.bits-pilani.ac.in/pilani/rajeshk/profile
-    
-    target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Prof. Rajesh Kumar&lt;/a&gt;, Formal Methods Lab, BITS Pilani, we theoretically showed the close ties between the two popular Boolean models of stochasticity- Stochasticity in Nodes (&lt;a href=https://pubmed.ncbi.nlm.nih.gov/17543998/
-    
-    target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;SIN&lt;/a&gt;) and Stochasticity in Function (&lt;a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2687968/
-    
-    target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;SIF&lt;/a&gt;). This was done by proving both the models as a special instance of the generic framework- context sensitive probabilistic Boolean networks which are modelled using discrete time markov chains. We also attempted to understand the stable attractor dynamics of probabiltic networks and their physical implications as different phenotypes.&lt;/p&gt;
+&gt;sequence assembly&lt;/a&gt;, which is an NP-hard string reconstruction problem. We are building a novel de-novo short-read genome assembler to reconstruct the DNA contigs efficiently. The proposed assembler is being built with distributed and hierarchical data structures and using intermediaries- unitigs to avoid the bottlenecks in the pipeline. We harness overlap, and paired-end information along with some novel features to extend the unitigs.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing Structure Of Novel Heavy Metal Complexes For Cancer Detection</title>
       <link>https://israwal.github.io/project/heavy_metal/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/heavy_metal/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Aug 2020 - Dec 2020)&lt;/p&gt;
-&lt;p&gt;The Cancer Diagnostic Tool Project is a collaboration between the Department of Biological Sciences and Department fo Chemsitry, BITS Pilani. As a part of the initiative, in-house developed backbones of novel heavy metal complex were being explored to develop affordable (less than 1 USD) and portable cancer diagnostic tools. These heavy metal complexes rely on Aggregation-Induced Emission (AIE) mechanism for detection. My job, under the guidance of &lt;a href=https://www.bits-pilani.ac.in/pilani/shiba/profile
+&lt;p&gt;The Cancer Diagnostic Tool Project is a collaboration between the Department of Biological Sciences and the Department of Chemistry, BITS Pilani. As a part of the initiative, in-house developed backbones of the novel heavy metal complex were being explored to develop affordable (less than 1 USD) and portable cancer diagnostic tools. These heavy metal complexes rely on Aggregation-Induced Emission (AIE) mechanism for detection. Under the guidance of &lt;a href=https://www.bits-pilani.ac.in/pilani/shiba/profile
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Prof. Shibasish Chowdhury&lt;/a&gt;, was to find the optimal structure of the complexes against EphB4 (a cancer biomarker) using molecular docking. The results from my in-silico study are being translated to the wet-lab work to test and further optimise the structure.&lt;/p&gt;
+&gt;Prof. Shibasish Chowdhury&lt;/a&gt;, my job was to find the optimal structure of the complexes against EphB4 (a cancer biomarker) using molecular docking. The results from my in-silico study are being translated to the wet-lab work to test and further optimise the structure.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Modelling Of Gene Regulatory Networks Using cs-PBN</title>
+      <link>https://israwal.github.io/project/pbn/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/pbn/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Aug 2020 - Dec 2020)&lt;/p&gt;
+&lt;p&gt;In collaboration with &lt;a href=https://www.bits-pilani.ac.in/pilani/rajeshk/profile
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Rajesh Kumar&lt;/a&gt;, Formal Methods Lab, BITS Pilani, I theoretically showed the close ties between the two popular Boolean models of stochasticity — Stochasticity in Nodes (&lt;a href=https://pubmed.ncbi.nlm.nih.gov/17543998/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;SIN&lt;/a&gt;) and Stochasticity in Function (&lt;a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2687968/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;SIF&lt;/a&gt;). This was done by proving both the models as a special instance of the generic framework of context-sensitive Probabilistic Boolean Networks, modelled using discrete-time Markov chains. We also attempted to understand the stable attractor dynamics of probabilistic networks and their physical implications as different phenotypes.&lt;/p&gt;
 </description>
     </item>
     
@@ -69,10 +69,10 @@
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/covid_genome/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (June 2020 - Sept 2020)&lt;/p&gt;
-&lt;p&gt;This project was done virtually during the fist wave of the COVID-19 pandemic, in collaboration with &lt;a href=http://arunsethuraman.weebly.com/
+&lt;p&gt;This project was done virtually during the first wave of the COVID-19 pandemic, in collaboration with &lt;a href=http://arunsethuraman.weebly.com/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Prof. Arun Sethuraman&lt;/a&gt;, California State University, San Marcos. Long range mutations are not well studied in evolutionary biology. We hypothesized that associations in long-range mutations gives more reasons to inspect causality in SARS-CoV-2. This would help to analyze the trajectory of mutations of the virus. We analyzed 1,200 full genome sequences and identified 14 significant non-synonymous mutations. The association rules were mined using apriori algorithm and their individual stability was analyzed using homology modelling. This was the first ever data-driven analysis of viral long-range mutations. We found out two clusters of significant non-synonymous mutations and analyzed the intra and inter-cluster rules (figure above). We presented our work at the virtual poster presentation at COVID-19 Dynamics and Evolution Virtual Conference, organised by UC San Diego School of Medicine.&lt;/p&gt;
+&gt;Prof. Arun Sethuraman&lt;/a&gt;, California State University, San Marcos. Long-range mutations are not well studied in evolutionary biology. We hypothesised that associations in long-range mutations give more reasons to inspect causality in SARS-CoV-2. This would help to analyse the trajectory of mutations of the virus. We analysed 1,200 whole genome sequences and identified 14 significant non-synonymous mutations. The association rules were mined using the apriori algorithm, and their stability was analysed using homology modelling. This was the first-ever data-driven analysis of long-range viral mutations. We found two clusters of significant non-synonymous mutations and analysed the intra and inter-cluster rules (figure above).&lt;/p&gt;
 </description>
     </item>
     

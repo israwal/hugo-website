@@ -12,19 +12,15 @@ weight: 40
 title: About Me
 ---
 <p> <!-- style="text-align:justify"> -->
-        I have an immense passion for understanding natural and artificial intelligence. Throughout my undergraduate degree, I have
-        had chances to collaborate with amazing researchers in the domains of bioinformatics, genetics, formal language, algorithms
-        and deep learning. The exploration spree ultimately settled at computer vision and machine learning, where I am interested in
-        segmentation, videos and multi-modal analytics, and reconstruction.
+        I have an immense passion for understanding natural and artificial intelligence. Throughout my undergraduate degree, I have had chances to collaborate with exceptional researchers in the domains of bioinformatics, formal language, data mining and deep learning. The exploration spree ultimately settled at computer vision and machine learning, where I am interested in generative modelling, representation learning and interpretable approaches.
 </p>
 <p ><!-- style="text-align:justify"> -->
-        I am currently working at <a href="https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html"  target="_blank" rel="noopener">Radek Cichy's Lab</a> to decode natural videos from fMRI data. While modelling the brain using neural
-        networks, I am also trying to elucidate the learning process in deep neural models. I am also associated with <a href="https://www.bits-pilani.ac.in/pilani/computerscience/AdvancedDataAnalyticsParallelTechnologiesLaboratory" target="_blank" rel="noopener">ADAPT Lab</a> to
-        build a novel de-novo genome assembler. We are working on new data-structures, and heuristic algorithms to re-construct the DNA sequence assembly efficiently.
+        I am currently working at <a href="http://www.cvai.cs.uni-frankfurt.de/"  target="_blank" rel="noopener">CVAI Lab</a> and <a href="https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html"  target="_blank" rel="noopener">Neural Dynamics of Visual Cognition Lab</a> to reconstruct natural videos from fMRI data. I am using a DNN-guided inversion approach to enforce a natural prior constraint by inverting the activation space to get back the videos. In this process, I am exploring the ideas of architectural priors, represenation learning and interpretability of natural and artifical systems.
 </p>
 <p><!--  style="text-align:justify"> -->
-        I have also been a part of healthcare initiatives in computer science especially for <a href="/project/heavy_metal/" target="_blank" rel="noopener">cancer</a> and <a href="/project/covid_genome/" target="_blank" rel="noopener">SARS-CoV-2</a>. Some past collaborators and mentors who helped me shape (and continue to shape) my scientific perspective include
-        <a href="http://arunsethuraman.weebly.com/" target="_blank" rel="noopener">Prof. Arun Sethuraman</a>,
-        <a href="https://www.bits-pilani.ac.in/pilani/meghanatare/profile" target="_blank" rel="noopener">Prof. Meghana Tare</a>, and
-        <a href="https://www.bits-pilani.ac.in/pilani/rajeshk/profile" target="_blank" rel="noopener">Prof. Rajesh Kumar</a>.
+        I have also been a part of healthcare initiatives in computer science, especially for <a href="/project/heavy_metal/" target="_blank" rel="noopener">cancer</a> and <a href="/project/covid_genome/" target="_blank" rel="noopener">SARS-CoV-2</a>. Some past collaborators and mentors who helped me shape (and continue to shape) my scientific perspective include
+        <a href="http://peterwonka.net/" target="_blank" rel="noopener">Prof. Peter Wonka</a>, <a href="http://arunsethuraman.weebly.com/" target="_blank" rel="noopener">Prof. Arun Sethuraman</a>
+        and <a href="https://www.bits-pilani.ac.in/pilani/meghanatare/profile" target="_blank" rel="noopener">Prof. Meghana Tare</a>.
 </p> 
+<p>
+        My research is supported by <a href="https://online-inspire.gov.in/account/inspireprogramme" target="_blank" rel="noopener">INSPIRE-SHE</a> (Government of India) and <a href="https://www.fu-berlin.de/universitaet/auszeichnungen/exzellenzwettbewerb/index.html" target="_blank" rel="noopener">Zukunftskonzept Stipendium</a> (Freie University Berlin).

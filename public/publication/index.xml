@@ -5,7 +5,7 @@
     <link>https://israwal.github.io/publication/</link>
       <atom:link href="https://israwal.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://israwal.github.io/media/icon_hue5d671e0b768c50a6d08d5b4f04cff0f_40307_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,24 +13,26 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
+      <title>Assessing linked selection and long-distance associations of functional mutations in SARS-CoV2 variants in India</title>
       <link>https://israwal.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=https://wowchemy.com/docs/writing-markdown-latex/
-    
-    target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+ --&gt;
+&lt;p&gt;&lt;strong&gt;Award:&lt;/strong&gt; Young Investigator Scholarship&lt;/p&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://israwal.github.io/tag/computer-vision/</link>
       <atom:link href="https://israwal.github.io/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://israwal.github.io/media/icon_hue5d671e0b768c50a6d08d5b4f04cff0f_40307_512x512_fill_lanczos_center_2.png</url>
       <title>Computer Vision</title>
@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>Deep Video Reconstruction From Brain Activity</title>
+      <title>Deep Video Reconstruction From fMRI Signals</title>
       <link>https://israwal.github.io/project/brain_video/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://israwal.github.io/project/brain_video/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Ongoing (Since Dec 2020)&lt;/p&gt;
-&lt;p&gt;I am working with &lt;a href=http://userpage.fu-berlin.de/rmcichy/
+&lt;p&gt;I am being advised by &lt;a href=http://userpage.fu-berlin.de/rmcichy/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
 &gt;Prof. Radoslaw Martin Cichy&lt;/a&gt; (&lt;a href=https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html
@@ -30,7 +30,35 @@
 &gt;Prof. Gemma Roig&lt;/a&gt; (&lt;a href=http://www.cvai.cs.uni-frankfurt.de/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Computer Vision and Artificial Intelligence Lab&lt;/a&gt;, Goethe University) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using deep neural network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network. We are also exploring end-to-end models which can produce both encodings and decodings.&lt;/p&gt;
+&gt;Computer Vision and Artificial Intelligence Lab&lt;/a&gt;, Goethe University) for my master&amp;rsquo;s thesis. We are decoding and reconstructing the  natural videos from brain fMRI signals using deep learning. I am extending the &lt;a href=https://dmitryulyanov.github.io/deep_image_prior
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Deep Image Prior&lt;/a&gt; and using it to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constrain the reconstructions in the natural and temporal coherence manifold.&lt;/li&gt;
+&lt;li&gt;Understand the representations in Deep Neural Networks and brain.&lt;/li&gt;
+&lt;li&gt;Probe unlearnt priors by the virtue of the architecture.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Random Fourier Implicit Neural Networks</title>
+      <link>https://israwal.github.io/project/fourier_implicit/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://israwal.github.io/project/fourier_implicit/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Status&lt;/strong&gt;: Completed (Jul 2020 - Oct 2021)&lt;/p&gt;
+&lt;p&gt;I worked with &lt;a href=http://peterwonka.net/
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Prof. Peter Wonka&lt;/a&gt; at the &lt;a href=https://cemse.kaust.edu.sa/vcc
+    
+    target=_blank rel=&#34;noopener noreferrer&#34;
+&gt;Visual Computing Center&lt;/a&gt;, KAUST. I worked on improving the PSNR values for neural implicit
+representations for Images. Building on the Random Fourier Features, I experimented with different
+approaches — neighbourhood-aware representation, hierarchically scaled representation and multi-step
+representations (with differential RGB images). With heirarchical scaling, we were able to imrpove the PSNR
+values as much as 0.3 for some cases. However, large-scale experiments are required to substantiate the claims.&lt;/p&gt;
 </description>
     </item>
     
@@ -43,10 +71,7 @@
 &lt;p&gt;This project was completed as part of my summer internship at &lt;a href=https://orthobiomech.ethz.ch/
     
     target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of &lt;a href=https://biomech.ethz.ch/the-institute/people/person-detail.html?persid&amp;#61;172198
-    
-    target=_blank rel=&#34;noopener noreferrer&#34;
-&gt;Dr. Jonas Widmer&lt;/a&gt;. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to indentify spinal defects. Particularly, I was involved in segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1% and the overall segmentation pipeline scored 91.8%, which is competent with the state-of-the-art apporoaches.&lt;/p&gt;
+&gt;Laboratory for Orthopaedic Biomechanics&lt;/a&gt;, ETH Zurich, under the guidance of Dr. Jonas Widmer. I contributed to the image segmentation component of a larger pipeline for automatic analysis of spine MRI to identify spinal defects. Particularly, I was involved in the segmentation of intervertebral disc. I compared different variants of U-Net (viz. vanilla, skip connection, inception modules etc.) for the task. The best model (inception U-Net with skip connections) achieved a dice score of 94.1%, and the overall segmentation pipeline scored 91.8%, which is competitive with the state-of-the-art approaches.&lt;/p&gt;
 </description>
     </item>
     

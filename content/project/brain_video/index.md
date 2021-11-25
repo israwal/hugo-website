@@ -1,10 +1,11 @@
 ---
-title: Deep Video Reconstruction From Brain Activity
-summary: fMRI is nosiy high-dimensional data with poor temporal resolution. We are using deep neural network activation values as a proxy to reconstruct the videos and understand the computation in both- brain and neural networks.
+title: Deep Video Reconstruction From fMRI Signals
+summary: fMRI is noisy high-dimensional data with poor temporal resolution. I am using fMRI data to predict the activations of stimulus video and use propose a Deep Video Prior to reconstruct the video by feature inversion while constraining it in the manifold of natural videos.
+
 tags:
 - Machine Learning
 - Computer Vision
-date: "2020-12-01"
+date: "2021-11-25"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,4 +31,7 @@ slides: ""
 
 **Status**: Ongoing (Since Dec 2020)
 
-I am working with [Prof. Radoslaw Martin Cichy](http://userpage.fu-berlin.de/rmcichy/) ([Neural Dynamics of Visual Cognition Lab](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html), Freie Universität Berlin) and [Prof. Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/team.html) ([Computer Vision and Artificial Intelligence Lab](http://www.cvai.cs.uni-frankfurt.de/), Goethe University) to decode and reconstruct the features of natural videos from brain fMRI signals using Deep Learning. We are using deep neural network activations as a proxy to map the fMRI features to the video space to decode, understand and compare the hierarchical and selective representation of features in the brain and neural network. We are also exploring end-to-end models which can produce both encodings and decodings.
+I am being advised by [Prof. Radoslaw Martin Cichy](http://userpage.fu-berlin.de/rmcichy/) ([Neural Dynamics of Visual Cognition Lab](https://www.ewi-psy.fu-berlin.de/en/einrichtungen/arbeitsbereiche/neural_dyn_of_vis_cog/index.html), Freie Universität Berlin) and [Prof. Gemma Roig](http://www.cvai.cs.uni-frankfurt.de/team.html) ([Computer Vision and Artificial Intelligence Lab](http://www.cvai.cs.uni-frankfurt.de/), Goethe University) for my master's thesis. We are decoding and reconstructing the  natural videos from brain fMRI signals using deep learning. I am extending the [Deep Image Prior](https://dmitryulyanov.github.io/deep_image_prior) and using it to
+- Constrain the reconstructions in the natural and temporal coherence manifold.
+- Understand the representations in Deep Neural Networks and brain.
+- Probe unlearnt priors by the virtue of the architecture.

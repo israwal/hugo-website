@@ -1,6 +1,6 @@
 ---
 title: Analysis Of Long-Distance Linked Selection In Indian Variants Of SARS-CoV-2
-summary: Mutations that thrive in the population confer survival advantage to the (viral) species. We attempted to explain the synergistic driving forces in long-distance mutations using association rule mining.
+summary: Mutations that thrive in the population confer a survival advantage to the (viral) species. I built the first ever data-driven model to explain the synergistic driving forces in long-distance mutations using association rule mining.
 tags:
 - Machine Learning
 - Other
@@ -31,4 +31,4 @@ slides: ""
 **Status**: Completed (June 2020 - Sept 2020)
 
 
-This project was done virtually during the fist wave of the COVID-19 pandemic, in collaboration with [Prof. Arun Sethuraman](http://arunsethuraman.weebly.com/), California State University, San Marcos. Long range mutations are not well studied in evolutionary biology. We hypothesized that associations in long-range mutations gives more reasons to inspect causality in SARS-CoV-2. This would help to analyze the trajectory of mutations of the virus. We analyzed 1,200 full genome sequences and identified 14 significant non-synonymous mutations. The association rules were mined using apriori algorithm and their individual stability was analyzed using homology modelling. This was the first ever data-driven analysis of viral long-range mutations. We found out two clusters of significant non-synonymous mutations and analyzed the intra and inter-cluster rules (figure above). We presented our work at the virtual poster presentation at COVID-19 Dynamics and Evolution Virtual Conference, organised by UC San Diego School of Medicine.
+This project was done virtually during the first wave of the COVID-19 pandemic, in collaboration with [Prof. Arun Sethuraman](http://arunsethuraman.weebly.com/), California State University, San Marcos. Long-range mutations are not well studied in evolutionary biology. We hypothesised that associations in long-range mutations give more reasons to inspect causality in SARS-CoV-2. This would help to analyse the trajectory of mutations of the virus. We analysed 1,200 whole genome sequences and identified 14 significant non-synonymous mutations. The association rules were mined using the apriori algorithm, and their stability was analysed using homology modelling. This was the first-ever data-driven analysis of long-range viral mutations. We found two clusters of significant non-synonymous mutations and analysed the intra and inter-cluster rules (figure above).
