@@ -4,7 +4,7 @@ summary: Intervertebral Discs were segmented from spine fMRI data of 1,000 indiv
 tags:
 - Machine Learning
 - Computer Vision
-date: "2020-05-01"
+date: "2020-07-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
